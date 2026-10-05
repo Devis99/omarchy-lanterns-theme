@@ -6,6 +6,12 @@ An Omarchy theme based on HBO's *Lanterns*, built from the objects at the centre
 
 ![Lanterns Omarchy theme preview](preview.png)
 
+<table>
+  <tr>
+    <td><img src="preview-unlock.png" alt="Lanterns unlock screen with Hal's ring face"></td>
+  </tr>
+</table>
+
 ## Install
 
 ```bash
