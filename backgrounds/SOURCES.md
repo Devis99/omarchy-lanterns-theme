@@ -5,7 +5,7 @@ All wallpapers are 3840x2160. The stills are from the HBO series *Lanterns* (sea
 | File | Source |
 |---|---|
 | `01-ring-face.jpg` | Drawn for this theme: Hal Jordan's ring face as a flat vector, in the theme palette. |
-| `02-title-lens.jpg` | S01E03 "OutKast", title sequence, 04:54. |
+| `02-title-lens.jpg` | S01E03 "OutKast", title sequence, 04:55. |
 | `03-title-lanterns.jpg` | S01E03 "OutKast", title card, 05:00. |
 | `04-title-omarchy.jpg` | Edit of `03`: the title replaced with the Omarchy wordmark, filled with the title card's own starfield. |
 | `05-hal-ring.jpg` | S01E05 "Lights Out", 51:00. |
