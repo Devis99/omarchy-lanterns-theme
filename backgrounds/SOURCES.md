@@ -15,3 +15,4 @@ All wallpapers are 3840x2160. The stills are from the HBO series *Lanterns* (sea
 | `09-tunnel.jpg` | S01E04 "The Weenie", 17:00. |
 | `10-motel-night.jpg` | S01E04 "The Weenie", 34:12. |
 | `11-beacon.jpg` | S01E08 "Dirt and Stars", 44:52. |
+| `12-john-lantern-face.jpg` | Drawn for this theme: John Stewart's lantern as a flat front-on emblem, a pair to `01`. |
