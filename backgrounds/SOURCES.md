@@ -1,6 +1,6 @@
 # Wallpaper sources
 
-All wallpapers are 3840x2160. Film stills are from the HBO series *Lanterns* (season 1, 2026), tone-mapped from HDR and centre-cropped from 2:1 to 16:9. *Lanterns*, Green Lantern, the Green Lantern emblem and related characters are owned by DC and Warner Bros. Discovery. This theme is a fan project, is not affiliated with or endorsed by them, and includes the images for personal desktop theming only.
+All wallpapers are 3840x2160. The stills are from the HBO series *Lanterns* (season 1, 2026). *Lanterns*, Green Lantern, the Green Lantern emblem and related characters belong to DC and Warner Bros. Discovery. This is an unofficial fan theme, not affiliated with or endorsed by them; the images are included for personal desktop theming.
 
 | File | Source |
 |---|---|

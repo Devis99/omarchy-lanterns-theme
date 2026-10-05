@@ -27,7 +27,7 @@ It is a dark theme without being another jade theme: the ground is near-neutral 
 
 ## Wallpapers
 
-All wallpapers are 3840x2160. Film stills from *Lanterns* © DC / Warner Bros. Discovery, included for personal desktop theming; this is a fan project, not affiliated. Sources in `backgrounds/SOURCES.md`.
+All wallpapers are 3840x2160. The stills are from HBO's *Lanterns*; the series, its characters and the Green Lantern emblem belong to DC and Warner Bros. Discovery. They're here for personal desktop theming in an unofficial fan theme. Episode and timestamp for each are in `backgrounds/SOURCES.md`.
 
 <table>
   <tr>
