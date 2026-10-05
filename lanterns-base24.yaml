@@ -1,0 +1,29 @@
+system: "base24"
+name: "Lanterns"
+author: "Devis99"
+variant: "dark"
+palette:
+  base00: "#141412"  # graphite
+  base01: "#201f1d"  # soot
+  base02: "#0d4833"  # emerald shadow
+  base03: "#89867c"  # ash
+  base04: "#b0ab99"  # bone dim
+  base05: "#d1cab5"  # bone
+  base06: "#f0ebdc"  # bone lit
+  base07: "#f0ebdc"  # bone lit
+  base08: "#ee9b57"  # motel neon
+  base09: "#9d8342"  # lantern brass in shadow
+  base0A: "#d9cf63"  # title lens
+  base0B: "#009863"  # ring emerald
+  base0C: "#89d0aa"  # beacon afterglow
+  base0D: "#7db6bd"  # window steel
+  base0E: "#83b755"  # lantern glass
+  base0F: "#855831"  # neon in shadow
+  base10: "#0d0c0a"  # graphite deep
+  base11: "#060605"  # graphite deeper
+  base12: "#fcba89"  # motel neon lit
+  base13: "#ece596"  # title lens lit
+  base14: "#24ba7d"  # ring emerald lit
+  base15: "#ade3c5"  # beacon afterglow lit
+  base16: "#a9d4d8"  # window steel lit
+  base17: "#a1ce7b"  # lantern glass lit

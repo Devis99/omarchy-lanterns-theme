@@ -1,0 +1,122 @@
+/**
+ * @name Lanterns
+ * @description Midnight for Discord in Lanterns colours: graphite panels, bone text, ring-emerald accents, brass frames.
+ * @author Devis99, refact0r (midnight)
+ * @version 1.0.0
+ * @upstream https://github.com/refact0r/midnight-discord
+*/
+
+@import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
+
+body {
+    --font: 'JetBrainsMono Nerd Font';
+    --code-font: 'JetBrainsMono Nerd Font';
+    font-weight: 400;
+    --gap: 12px;
+    --divider-thickness: 4px;
+    --border-thickness: 1px;
+    --animations: on;
+    --list-item-transition: 0.2s ease;
+    --dms-icon-svg-transition: 0.4s ease;
+    --border-hover-transition: 0.2s ease;
+    --top-bar-height: var(--gap);
+    --top-bar-button-position: titlebar;
+    --top-bar-title-position: off;
+    --subtle-top-bar-title: off;
+    --custom-window-controls: on;
+    --window-control-size: 14px;
+    --custom-dms-icon: off;
+    --custom-dms-background: off;
+    --background-image: off;
+    --transparency-tweaks: off;
+    --remove-bg-layer: off;
+    --panel-blur: off;
+    --bg-floating: var(--bg-3);
+    --custom-chatbar: off;
+    --chatbar-height: 47px;
+    --small-user-panel: on;
+}
+
+:root {
+    --colors: on;
+
+    /* text: bone on graphite */
+    --text-0: var(--bg-4);
+    --text-1: #f0ebdc;
+    --text-2: #f0ebdc;
+    --text-3: #d1cab5;
+    --text-4: #89867c;
+    --text-5: #5f5c54;
+
+    /* graphite panels */
+    --bg-1: #2b2a27;
+    --bg-2: #201f1d;
+    --bg-3: #141412;
+    --bg-4: #0d0c0a;
+    /* hover and selection are lit by the ring's brass */
+    --hover: rgba(166, 147, 107, 0.08);
+    --active: rgba(166, 147, 107, 0.16);
+    --active-2: rgba(166, 147, 107, 0.24);
+    --message-hover: rgba(0, 0, 0, 0.12);
+
+    /* accents: the ring's emerald */
+    --accent-1: var(--green-1);
+    --accent-2: var(--green-2);
+    --accent-3: var(--green-3);
+    --accent-4: var(--green-4);
+    --accent-5: var(--green-5);
+    --accent-new: var(--red-2);
+    --mention: linear-gradient(to right, color-mix(in hsl, var(--accent-2), transparent 88%) 40%, transparent);
+    --mention-hover: linear-gradient(to right, color-mix(in hsl, var(--accent-2), transparent 94%) 40%, transparent);
+    --reply: linear-gradient(to right, color-mix(in hsl, #a6936b, transparent 88%) 40%, transparent);
+    --reply-hover: linear-gradient(to right, color-mix(in hsl, #a6936b, transparent 94%) 40%, transparent);
+
+    --online: var(--green-2);
+    --dnd: var(--red-2);
+    --idle: var(--yellow-2);
+    --streaming: var(--purple-2);
+    --offline: var(--text-4);
+
+    /* panel frames are brass, like the ring around its stone */
+    --border-light: rgba(166, 147, 107, 0.12);
+    --border: rgba(166, 147, 107, 0.28);
+    --border-hover: rgba(166, 147, 107, 0.55);
+    --button-border: rgba(166, 147, 107, 0.18);
+
+    /* base colours, each family at its measured peak in the show (OKLCH) */
+    --green-1: oklch(76% 0.15 160);   /* ring emerald */
+    --green-2: oklch(70% 0.15 160);
+    --green-3: oklch(64% 0.14 160);
+    --green-4: oklch(58% 0.14 160);
+    --green-5: oklch(52% 0.13 160);
+
+    --red-1: oklch(84% 0.10 58);      /* motel neon */
+    --red-2: oklch(76% 0.13 58);
+    --red-3: oklch(70% 0.13 58);
+    --red-4: oklch(64% 0.13 58);
+    --red-5: oklch(58% 0.12 58);
+
+    --yellow-1: oklch(91% 0.10 104);  /* title lens */
+    --yellow-2: oklch(84% 0.13 104);
+    --yellow-3: oklch(78% 0.13 104);
+    --yellow-4: oklch(72% 0.12 104);
+    --yellow-5: oklch(66% 0.11 104);
+
+    --blue-1: oklch(84% 0.045 205);   /* window steel */
+    --blue-2: oklch(74% 0.06 205);
+    --blue-3: oklch(68% 0.06 205);
+    --blue-4: oklch(62% 0.06 205);
+    --blue-5: oklch(56% 0.05 205);
+
+    --purple-1: oklch(80% 0.12 132);  /* lantern glass: no purple exists in the source */
+    --purple-2: oklch(72% 0.14 132);
+    --purple-3: oklch(66% 0.14 132);
+    --purple-4: oklch(60% 0.13 132);
+    --purple-5: oklch(54% 0.12 132);
+
+    --orange-1: oklch(80% 0.09 90);   /* lantern brass */
+    --orange-2: oklch(72% 0.07 88);
+    --orange-3: oklch(66% 0.07 88);
+    --orange-4: oklch(60% 0.07 88);
+    --orange-5: oklch(54% 0.06 88);
+}

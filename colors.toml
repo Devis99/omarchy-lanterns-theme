@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Lanterns - Hal's ring and John's lantern at night.
+# Every colour is measured from the wallpapers or the stills. Slot names are schema labels:
+# red is motel neon, magenta is lantern glass, blue is window steel, cyan is the beacon.
+
+accent               = "#83b755"  # glass
+selection            = "#0d4833"  # enamel
+muted                = "#89867c"  # muted
+background           = "#141412"  # night
+dark_background      = "#0d0c0a"  # night_deep
+darker_background    = "#060605"  # night_deeper
+lighter_background   = "#201f1d"  # soot
+foreground           = "#d1cab5"  # bone
+dark_foreground      = "#b0ab99"  # bone_dim
+light_foreground     = "#f0ebdc"  # bone_hi
+bright_foreground    = "#f0ebdc"  # bone_hi
+selection_foreground = "#f0ebdc"  # bone_hi
+selection_background = "#0d4833"  # enamel
+red                  = "#ee9b57"  # neon
+orange               = "#9d8342"  # brass_shadow
+yellow               = "#d9cf63"  # lens
+green                = "#009863"  # emerald
+cyan                 = "#89d0aa"  # beacon
+blue                 = "#7db6bd"  # steel
+magenta              = "#83b755"  # glass
+brown                = "#855831"  # neon_shadow
+bright_red           = "#fcba89"  # neon_hi
+bright_yellow        = "#ece596"  # lens_hi
+bright_green         = "#24ba7d"  # emerald_hi
+bright_cyan          = "#ade3c5"  # beacon_hi
+bright_blue          = "#a9d4d8"  # steel_hi
+bright_magenta       = "#a1ce7b"  # glass_hi
+
+# Glint: light catching the ring, emerald stone into brass frame; dark at both ends.
+hyprland_active_border = "rgb(141412) rgb(009863) rgb(a6936b) rgb(141412) 135deg"
+hyprland_inactive_border = "rgba(5f583e99)"  # brass_dim

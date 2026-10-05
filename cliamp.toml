@@ -1,0 +1,9 @@
+# cliamp theme - Lanterns
+# Installed by THPM to ~/.config/cliamp/themes/omarchy.toml
+# thpm:cliamp-use-native
+accent = "#83b755"     # lantern glass: primary interactive
+bright_fg = "#f0ebdc"  # bone: primary text and time
+fg = "#89867c"         # dim text and inactive elements
+green = "#009863"      # ring emerald: playing indicator, spectrum lows
+yellow = "#d9cf63"     # title lens: spectrum mids, warnings
+red = "#ee9b57"        # motel neon: spectrum highs, errors
