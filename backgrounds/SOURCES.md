@@ -19,3 +19,4 @@ All wallpapers are 3840x2160. The stills are from the HBO series *Lanterns* (sea
 | `13-hal-john-bleachers.jpg` | S01E01 "Pilot", 19:44. |
 | `14-hal-john-motel.jpg` | S01E02 "Trust Fall", 03:08. |
 | `15-hal-john-park.jpg` | S01E08 "Dirt and Stars", 50:04. |
+| `16-mogo.jpg` | Drawn for this theme: Mogo, the living planet of the Green Lantern Corps, wearing the emblem. |

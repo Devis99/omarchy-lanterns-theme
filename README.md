@@ -22,7 +22,7 @@ omarchy theme install https://github.com/Devis99/omarchy-lanterns-theme
 
 - Core Omarchy colours, a Glint window border (emerald into brass) and a ring-styled bar, menu and launcher.
 - App themes for Discord (Vencord), GTK, btop, cava and cliamp, plus Yaru-olive icons.
-- A ring-face Plymouth unlock logo and a 15-wallpaper set in `backgrounds/`.
+- A ring-face Plymouth unlock logo and a 16-wallpaper set in `backgrounds/`.
 - The palette as a Base24 scheme in `lanterns-base24.yaml`.
 
 ## Palette
@@ -60,5 +60,10 @@ All wallpapers are 3840x2160. The stills are from HBO's *Lanterns*; the series, 
     <td><img src="backgrounds/13-hal-john-bleachers.jpg" alt="Hal and John at the bleachers at night"><br><sub>13 Hal John Bleachers</sub></td>
     <td><img src="backgrounds/14-hal-john-motel.jpg" alt="Hal and John in the motel parking lot"><br><sub>14 Hal John Motel</sub></td>
     <td><img src="backgrounds/15-hal-john-park.jpg" alt="Hal and John in the park at night"><br><sub>15 Hal John Park</sub></td>
+  </tr>
+  <tr>
+    <td><img src="backgrounds/16-mogo.jpg" alt="Mogo, the living planet, wearing the Lantern emblem"><br><sub>16 Mogo</sub></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
