@@ -51,7 +51,8 @@ Rules the set follows:
 - Objects and silhouettes, not faces in close-up.
 - Raw frames only; cut-out objects on flat grounds do not belong in the set.
 - Edits reuse the frame's own texture (the Omarchy title is filled with tiles of the original title's starfield), never synthetic grain.
-- Order tells the story: the ring face, the opening titles, Hal, John, the night the season ends in.
+- Order tells the story: the two ring faces (will, then fear), the title card, Hal, John, the two of them at night, and Mogo to close.
+- Kept small: twelve walls, each one its own subject. Dark frames that turn to black behind windows and bright daylight frames were cut.
 - Golden-void frames were left out: their warm ochre fights the graphite ground.
 
 ## Guardrails
