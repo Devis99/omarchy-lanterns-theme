@@ -38,32 +38,32 @@ All wallpapers are 3840x2160. The stills are from HBO's *Lanterns*; the series, 
 <table>
   <tr>
     <td><img src="backgrounds/01-ring-face.jpg" alt="Hal's ring face, drawn"><br><sub>01 Ring Face</sub></td>
-    <td><img src="backgrounds/02-title-lens.jpg" alt="Title sequence lens"><br><sub>02 Title Lens</sub></td>
-    <td><img src="backgrounds/03-title-lanterns.jpg" alt="Lanterns title card"><br><sub>03 Title Lanterns</sub></td>
+    <td><img src="backgrounds/02-sinestro-ring-face.jpg" alt="The ring face in fear yellow, drawn"><br><sub>02 Sinestro Ring Face</sub></td>
+    <td><img src="backgrounds/03-title-lens.jpg" alt="Title sequence lens"><br><sub>03 Title Lens</sub></td>
   </tr>
   <tr>
-    <td><img src="backgrounds/04-title-omarchy.jpg" alt="Title card with the Omarchy wordmark"><br><sub>04 Title Omarchy</sub></td>
-    <td><img src="backgrounds/05-hal-ring.jpg" alt="Hal's ring on a wet floor"><br><sub>05 Hal Ring</sub></td>
-    <td><img src="backgrounds/06-hal-fist.jpg" alt="Fist with the glowing ring"><br><sub>06 Hal Fist</sub></td>
+    <td><img src="backgrounds/04-title-lanterns.jpg" alt="Lanterns title card"><br><sub>04 Title Lanterns</sub></td>
+    <td><img src="backgrounds/05-title-omarchy.jpg" alt="Title card with the Omarchy wordmark"><br><sub>05 Title Omarchy</sub></td>
+    <td><img src="backgrounds/06-hal-ring.jpg" alt="Hal's ring on a wet floor"><br><sub>06 Hal Ring</sub></td>
   </tr>
   <tr>
-    <td><img src="backgrounds/07-john-lantern.jpg" alt="John's lantern held in both hands"><br><sub>07 John Lantern</sub></td>
-    <td><img src="backgrounds/08-john-lantern-contours.jpg" alt="Lantern drawn as contour lines"><br><sub>08 John Lantern Contours</sub></td>
-    <td><img src="backgrounds/09-tunnel.jpg" alt="Two figures in a lit tunnel"><br><sub>09 Tunnel</sub></td>
+    <td><img src="backgrounds/07-hal-fist.jpg" alt="Fist with the glowing ring"><br><sub>07 Hal Fist</sub></td>
+    <td><img src="backgrounds/08-john-lantern.jpg" alt="John's lantern held in both hands"><br><sub>08 John Lantern</sub></td>
+    <td><img src="backgrounds/09-john-lantern-contours.jpg" alt="Lantern drawn as contour lines"><br><sub>09 John Lantern Contours</sub></td>
   </tr>
   <tr>
-    <td><img src="backgrounds/10-motel-night.jpg" alt="Motel at night under a green sky"><br><sub>10 Motel Night</sub></td>
-    <td><img src="backgrounds/11-beacon.jpg" alt="The lantern beacon glowing"><br><sub>11 Beacon</sub></td>
-    <td><img src="backgrounds/12-john-lantern-face.jpg" alt="John's lantern, drawn"><br><sub>12 John Lantern Face</sub></td>
+    <td><img src="backgrounds/10-tunnel.jpg" alt="Two figures in a lit tunnel"><br><sub>10 Tunnel</sub></td>
+    <td><img src="backgrounds/11-motel-night.jpg" alt="Motel at night under a green sky"><br><sub>11 Motel Night</sub></td>
+    <td><img src="backgrounds/12-beacon.jpg" alt="The lantern beacon glowing"><br><sub>12 Beacon</sub></td>
   </tr>
   <tr>
-    <td><img src="backgrounds/13-hal-john-bleachers.jpg" alt="Hal and John at the bleachers at night"><br><sub>13 Hal John Bleachers</sub></td>
-    <td><img src="backgrounds/14-hal-john-motel.jpg" alt="Hal and John in the motel parking lot"><br><sub>14 Hal John Motel</sub></td>
-    <td><img src="backgrounds/15-hal-john-park.jpg" alt="Hal and John in the park at night"><br><sub>15 Hal John Park</sub></td>
+    <td><img src="backgrounds/13-john-lantern-face.jpg" alt="John's lantern, drawn"><br><sub>13 John Lantern Face</sub></td>
+    <td><img src="backgrounds/14-hal-john-bleachers.jpg" alt="Hal and John at the bleachers at night"><br><sub>14 Hal John Bleachers</sub></td>
+    <td><img src="backgrounds/15-hal-john-motel.jpg" alt="Hal and John in the motel parking lot"><br><sub>15 Hal John Motel</sub></td>
   </tr>
   <tr>
-    <td><img src="backgrounds/16-mogo.jpg" alt="Mogo, the living planet, wearing the Lantern emblem"><br><sub>16 Mogo</sub></td>
-    <td><img src="backgrounds/17-sinestro-ring-face.jpg" alt="The ring face in fear yellow, drawn"><br><sub>17 Sinestro Ring Face</sub></td>
+    <td><img src="backgrounds/16-hal-john-park.jpg" alt="Hal and John in the park at night"><br><sub>16 Hal John Park</sub></td>
+    <td><img src="backgrounds/17-mogo.jpg" alt="Mogo, the living planet, wearing the Lantern emblem"><br><sub>17 Mogo</sub></td>
     <td></td>
   </tr>
 </table>
