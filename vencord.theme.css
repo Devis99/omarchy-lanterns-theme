@@ -136,6 +136,15 @@ body {
     color: #24ba7d !important;
 }
 
+/* unread channels: name, icon and dot in the lens yellow, so they stand apart from read ones */
+.modeUnreadImportant__2ea32 [class*="name"],
+.modeUnreadImportant__2ea32 .icon__2ea32 {
+    color: #d9cf63 !important;
+}
+.unread__2ea32 {
+    background-color: #d9cf63 !important;
+}
+
 /* server list: the selection marker is a brass sliver */
 .item__58105 {
     background-color: #a6936b !important;
