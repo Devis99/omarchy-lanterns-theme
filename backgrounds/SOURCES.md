@@ -16,3 +16,7 @@ All wallpapers are 3840x2160. The stills are from the HBO series *Lanterns* (sea
 | `10-hal-john-bleachers.jpg` | S01E01 "Pilot", 19:44. |
 | `11-hal-john-park.jpg` | S01E08 "Dirt and Stars", 50:04. |
 | `12-mogo.jpg` | Drawn for this theme: Mogo, the living planet of the Green Lantern Corps, wearing the emblem. |
+
+## Intros
+
+`intros/01-ring-face.mp4` is a 6-second Omarchy background intro for `01-ring-face.jpg`: the ring powering up, the rings igniting from the core and the brass frame drawing itself, ending exactly on the still. Drawn frame by frame from the same code as the wallpaper.
