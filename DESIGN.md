@@ -62,3 +62,4 @@ Rules the set follows:
 - Do not add red, purple or pink; they are not in the source.
 - New colours must be measured from the footage and stay within their family's peak saturation.
 - The window border keeps its dark ends; a border without them loses the glint.
+- Popups are the exception: their border sits on the same graphite as its dark ends, so `shell.popups.toml` drops them and runs emerald into brass only.
