@@ -21,7 +21,7 @@ omarchy theme install https://github.com/Devis99/omarchy-lanterns-theme
 ## What's Included
 
 - Core Omarchy colours, a Glint window border (emerald into brass) and a ring-styled bar, menu and launcher.
-- App themes for Discord (Vencord), GTK, btop, cava and cliamp, plus Yaru-olive icons.
+- App themes for Discord (Vencord), GTK, Zed, btop, cava and cliamp, plus Yaru-olive icons.
 - A ring-face Plymouth unlock logo and a 12-wallpaper set in `backgrounds/`, with an animated intro for the ring face.
 - The palette as a Base24 scheme in `lanterns-base24.yaml`.
 
